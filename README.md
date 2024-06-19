@@ -1,5 +1,9 @@
 # Data-Git
-Exercício Modulo 18
+
+
+Foi disponibilizado um arquivo CSV para gerarmos um tabela e um grafico usando o Pandas e o Seaborn.
+
+Foram gerados arquivos PNG, CSV e PY.
 
 Comandos Git vistos:
 - git status
